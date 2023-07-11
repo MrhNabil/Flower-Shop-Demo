@@ -125,7 +125,7 @@
     text-decoration: underline;
   }
   
-  .supprot{
+  .support{
     margin-left: 150px;
     margin-right: 150px;
     display: flex;
@@ -139,12 +139,12 @@
     margin-bottom: 10vh;
   }
   
-  .supprot-section-container img {
+  .support img {
     width: 50px;
     padding-bottom: 10px;
   }
   
-  .supprot-section-container p {
+  .support p {
     font-weight: 600;
     font-size: 16px;
   }
