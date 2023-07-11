@@ -64,7 +64,7 @@
     margin-right: 150px;
   }
   
-  .featured-flower-sect h2 {
+  .featured-flower h2 {
     font-weight: 800;
     font-size: 30px;
     padding-bottom: 11px;
@@ -148,6 +148,7 @@
     font-weight: 600;
     font-size: 16px;
   }
+
   
   .hot-deal{
     margin-left: 150px;
@@ -158,7 +159,7 @@
     text-align: center;
   }
   
-  .hot-deal-contents {
+  .hot-deal {
     padding-top: 8vh;
     display: flex;
     justify-content: space-around;
@@ -166,13 +167,13 @@
     align-items: center;
   }
   
-  .hot-deal-contents h2 {
+  .hot-deal h2 {
     font-weight: 800;
     font-size: 30px;
     padding-bottom: 11px;
   }
   
-  .hot-deal-contents p {
+  .hot-deal p {
     font-weight: 400;
     font-size: 13px;
     padding-bottom: 13px;
